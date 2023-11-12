@@ -2,4 +2,4 @@
 A project to practice Georgian letter prononciations.
 
 ## Usage
-See releases (here)[https://github.com/adenzu/GeorgianAlphabetQuizzer/releases]
+See releases [here](https://github.com/adenzu/GeorgianAlphabetQuizzer/releases)
